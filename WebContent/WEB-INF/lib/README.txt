@@ -1,1 +1,0 @@
-The libraries can be downloaded at vaadin.com
