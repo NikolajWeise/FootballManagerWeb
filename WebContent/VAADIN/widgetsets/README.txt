@@ -1,0 +1,1 @@
+default-widgetset comes from lib "vaadin-client-compiled-7.1.1.jar" and is not uploaded
